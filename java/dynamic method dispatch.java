@@ -11,7 +11,7 @@ class Child extends Parent {
     }
 }
 
-public class DynamicMethodArray {
+public class DynamicMethodDispatch {
     public static void main(String[] args) {
         Parent obj = new Child(); // Upcasting
         obj.show(); // Calls Child class method

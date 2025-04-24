@@ -6,6 +6,7 @@ class ForLoopSum{
         int n=sc.nextInt();
         int sum=0;
 
+        // Using for loop to calculate sum
         for(int i=1;i<=n;i++){
             sum=sum +i;
         }

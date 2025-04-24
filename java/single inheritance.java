@@ -1,4 +1,5 @@
-class ShapeDemo{
+class ShapeD
+{
     public static void main(String[]args){
         square ob = new square();
         ob.area(5,8);
