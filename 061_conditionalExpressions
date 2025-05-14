@@ -1,0 +1,52 @@
+# a = 45
+
+# if-elif-else ladder:--->
+
+# if (a>78):
+#     print("the value of a is greater than 3")
+# elif (a>7):
+#     print("the value of a is greater than 7")
+# elif (a>9):
+#     print("the value of a is greater than 7")
+# else:
+#     print("the value is not greater than 3 or 7")
+
+
+# Multiple if statements:--->
+
+# if (a>78):
+#     print("the value of a is greater than 3")
+
+# if (a>7):
+#     print("the value of a is greater than 7")
+
+# if (a>50):
+#     print("the value of a is greater than 7")
+# else:
+#     print("the value is not greater than 3 or 7")
+
+# ----------------------------------------->>>>>>>>>>>>
+# ex:
+# age  =  int(input("enter ur age:"))
+# if age>18:
+#     print("yes")
+# else:
+#     print("no")
+# ------------------------------------------>>>>>>>>>>>>
+
+# logical and relational operators:--->
+# age =  int(input("enter ur age"))
+# if ("age>34 and age<56"):
+#     print("u can work with us")
+# else:
+#     print("u cannot work with us")
+
+# in and is:--->
+# a = None
+# if(a is None): # It checks if 'a' is pointing to the same object (None)
+#     print("yes")
+# else:
+#     print("No")
+
+# a = [45,56,6]
+# print(457 in a) # It checks whether the element is present in the list or not
