@@ -35,13 +35,16 @@
 # ------------------------------------------>>>>>>>>>>>>
 
 # logical and relational operators:--->
+
 # age =  int(input("enter ur age"))
 # if ("age>34 and age<56"):
 #     print("u can work with us")
 # else:
 #     print("u cannot work with us")
 
+
 # in and is:--->
+
 # a = None
 # if(a is None): # It checks if 'a' is pointing to the same object (None)
 #     print("yes")
@@ -50,3 +53,4 @@
 
 # a = [45,56,6]
 # print(457 in a) # It checks whether the element is present in the list or not
+
