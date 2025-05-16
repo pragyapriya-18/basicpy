@@ -7,20 +7,20 @@ class A {
 
 class B extends A {
 
-    void showB() {
+    void show() {
         System.out.println("Class B");
     }
 }
 
 class C extends A {
 
-    void showC() {
+    void show() {
         System.out.println("Class C");
     }
 }
 
-class Hierarchical {
-
+class Hierarchical
+{
     public static void main(String[] args) {
         B obj1 = new B();
         C obj2 = new C();

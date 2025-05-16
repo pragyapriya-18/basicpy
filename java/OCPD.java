@@ -17,7 +17,7 @@ class Square extends Shape {
     }
 }
 
-class OCPDemo {
+class OCPD {
 
     public static void main(String[] args) {
         Shape s = new Circle();

@@ -1,3 +1,4 @@
+// syntax:--  
 class MyException extends Exception {
 
     MyException(String msg) {
@@ -5,7 +6,7 @@ class MyException extends Exception {
     }
 }
 
-class ThrowDemo {
+class ThrowException {
 
     public static void main(String[] args) {
         try {

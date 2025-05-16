@@ -1,6 +1,6 @@
 // import java.io.*;
 import java.util.Scanner;
-class Switchcase{
+class switchstatement {
     public static void main(String[]args){
         Scanner in = new Scanner(System.in);
         System.out.println("input year");

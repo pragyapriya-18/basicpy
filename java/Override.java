@@ -12,7 +12,7 @@ class B extends A {
     }
 }
 
-class OverrideDemo {
+class Override {
 
     public static void main(String[] args) {
         A obj = new B();

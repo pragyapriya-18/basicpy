@@ -10,7 +10,7 @@ class Student {
     }
 }
 
-public class encapsulation {
+class encapsulation {
     public static void main(String[] args) {
         Student s = new Student();
         s.setName("l");

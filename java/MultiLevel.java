@@ -19,7 +19,7 @@ class C extends B {
     }
 }
 
-class Multilevel {
+class MultiLevel {
 
     public static void main(String[] args) {
         C obj = new C();
